@@ -1,6 +1,8 @@
 
 # Created by https://www.gitignore.io/api/osx,node
 
+*.txt
+
 ### Node ###
 # Logs
 logs
@@ -91,4 +93,3 @@ Temporary Items
 .apdisk
 
 # End of https://www.gitignore.io/api/osx,node
-
