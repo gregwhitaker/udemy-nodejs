@@ -5,7 +5,7 @@ const os = require('os');
 const notes = require('./notes.js');
 
 var userInfo = os.userInfo();
-fs.appendFile('greetings.txt', `Hello ${userInfo.username}!`, (err) => {
+fs.appendFile('greetings.txt', `Hello ${userInfo.username}! You are ${notes.age}.`, (err) => {
   if (err) {
     throw err;
   }
