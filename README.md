@@ -3,6 +3,7 @@ Udemy - The Complete Node.js Developer Course
 
 Solutions for [The Complete Node.js Developer Course (2nd Edition)](https://www.udemy.com/the-complete-nodejs-developer-course-2) on Udemy.
 
+This is a work-in-progress as I find time to complete the lessons.
 
 ##Bugs and Feedback
 
