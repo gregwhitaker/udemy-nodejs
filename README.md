@@ -1,14 +1,14 @@
-Udemy - The Complete Node.js Developer Course
-===
+# Udemy - The Complete Node.js Developer Course
 
 Solutions for [The Complete Node.js Developer Course (2nd Edition)](https://www.udemy.com/the-complete-nodejs-developer-course-2) on Udemy.
 
+This is a work-in-progress as I find time to complete the lessons.
 
-##Bugs and Feedback
+## Bugs and Feedback
 
 For bugs, questions and discussions please use the [Github Issues](https://github.com/gregwhitaker/udemy-nodejs/issues).
 
-##License
+## License
 Copyright 2017 Greg Whitaker
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
